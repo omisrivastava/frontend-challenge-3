@@ -1,0 +1,50 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blanchedalmond;
+
+  }
+  .content{
+    background-color: aliceblue;
+    width: 760px;
+    height: 560px;
+    border-radius: 15px;
+    display: flex;
+  }
+
+  .part{
+    width: 80%;
+    height: 100%;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size:20px;
+   
+  }
+  .part h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  .part p{
+margin-bottom: 23px;
+  }
+  h3{
+    margin-top: 70px;
+    margin-left: 95px;
+    font-size: 27px;
+  }
+  span{
+    font-size: 20px;
+    margin-left: 12px;
+    text-decoration: line-through;
+  }
+  strong{
+    font-size: 35px;
+  }
